@@ -1,4 +1,4 @@
-// tree()函数：用来将parent树状结构转化为children树状结构，详见comps/tree.js
+// 1.tree()函数：用来将parent树状结构转化为children树状结构，详见comps/tree.js
 
 function tree(arr) {
 
